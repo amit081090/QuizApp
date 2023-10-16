@@ -55,4 +55,20 @@
 }
 
 
+@media only screen and (max-width: 600px) {
+  .Menu,
+  .Quiz,
+  .EndScreen {
+    width: 80%;
+     /* Adjust the width as needed for smaller screens */
+  }
+
+  .Menu button,
+  .Quiz button,
+  .EndScreen button {
+    width: 80%; 
+    
+    /* Adjust the width as needed for smaller screens */
+  }
+}
 
